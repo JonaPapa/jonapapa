@@ -5,9 +5,7 @@
 
 - 👨‍💻 I'm currently participating in a Python Internship.
 
-- 🌱 I’m currently learning **Python**
-
-- 👯 I’m looking to collaborate on **Python projects**
+- 🌱 Currently learning **Python**
 
 - 📫 How to reach me **jonapapa027@gmail.com**
 
