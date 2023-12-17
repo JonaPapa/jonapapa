@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonapapa&label=Profile%20views&color=0e75b6&style=flat" alt="jonapapa" /> </p>
 
-- 👨‍💻 I'm currently working on a [VehicleShop Final_exam](https://github.com/JonaPapa/VehicleShop#vehicleshop)
+- 👨‍💻 I'm currently participating in a Python Internship.
 
 - 🌱 I’m currently learning **Python**
 
